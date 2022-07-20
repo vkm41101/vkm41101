@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Kumar Mishra (@vkm41101)
-- 👀 I’m interested in Competitive Programming, Robotics, Prototyping Projects.
-- 🌱 I’m currently learning .NET, C#, Data Structures and Algorithms, Digital Design.
+- 👀 I’m interested in Competitive Programming, Backend Development.
+- 🌱 I’m currently learning Data Structures and Algorithms, Backend Development.
 - 📫 Reach me at vkm41101@gmail.com
 
 <!---
